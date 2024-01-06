@@ -8,5 +8,5 @@ public class principal {
     public static void main(String[] args) throws IOException {
         BuscadorDeFilmes buscador = new BuscadorDeFilmes();
         buscador.buscarFilmes();
-}
+    }
 }

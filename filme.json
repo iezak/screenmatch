@@ -1,11 +1,29 @@
 [
   {
+    "Nome": "Inside Out",
+    "AnoDeLansamento": 2015,
+    "IncluidoNoPlano": false,
+    "Avaliacao": 0.0,
+    "TotalDeAvaliacoes": 0,
+    "Duracao": 95,
+    "AvaliacaoTotal": 0.0
+  },
+  {
     "Nome": "Avatar",
     "AnoDeLansamento": 2009,
     "IncluidoNoPlano": false,
     "Avaliacao": 0.0,
     "TotalDeAvaliacoes": 0,
     "Duracao": 162,
+    "AvaliacaoTotal": 0.0
+  },
+  {
+    "Nome": "Matrix",
+    "AnoDeLansamento": 1993,
+    "IncluidoNoPlano": false,
+    "Avaliacao": 0.0,
+    "TotalDeAvaliacoes": 0,
+    "Duracao": 60,
     "AvaliacaoTotal": 0.0
   }
 ]
